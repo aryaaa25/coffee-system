@@ -1,1 +1,1 @@
-# coffee-system
+Cafe Haven System is my final year project.  And I have worked on frontend technologies like Html, CSS, js and Bootstrap whearas for backend I have used MySql. This system is all about purchasing coffee product by sitting at home, making reservation for seats at the cafe and getting discounts, etc
